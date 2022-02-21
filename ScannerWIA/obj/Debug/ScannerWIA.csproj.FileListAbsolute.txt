@@ -1,0 +1,14 @@
+G:\projects\ScannerWIA\ScannerWIA\bin\Debug\ScannerWIA.exe.config
+G:\projects\ScannerWIA\ScannerWIA\bin\Debug\ScannerWIA.exe
+G:\projects\ScannerWIA\ScannerWIA\bin\Debug\ScannerWIA.pdb
+G:\projects\ScannerWIA\ScannerWIA\bin\Debug\Interop.WIA.dll
+G:\projects\ScannerWIA\ScannerWIA\obj\Debug\ScannerWIA.csproj.AssemblyReference.cache
+G:\projects\ScannerWIA\ScannerWIA\obj\Debug\ScannerWIA.csproj.SuggestedBindingRedirects.cache
+G:\projects\ScannerWIA\ScannerWIA\obj\Debug\Interop.WIA.dll
+G:\projects\ScannerWIA\ScannerWIA\obj\Debug\ScannerWIA.csproj.ResolveComReference.cache
+G:\projects\ScannerWIA\ScannerWIA\obj\Debug\ScannerWIA.Form1.resources
+G:\projects\ScannerWIA\ScannerWIA\obj\Debug\ScannerWIA.Properties.Resources.resources
+G:\projects\ScannerWIA\ScannerWIA\obj\Debug\ScannerWIA.csproj.GenerateResource.cache
+G:\projects\ScannerWIA\ScannerWIA\obj\Debug\ScannerWIA.csproj.CoreCompileInputs.cache
+G:\projects\ScannerWIA\ScannerWIA\obj\Debug\ScannerWIA.exe
+G:\projects\ScannerWIA\ScannerWIA\obj\Debug\ScannerWIA.pdb
